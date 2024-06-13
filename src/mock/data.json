@@ -1,0 +1,122 @@
+{
+  "stories": [
+    {
+      "id": "01HPHT61SAB5ZGWZF20K1B4D9F",
+      "isMain": true,
+      "title": "The USVI team is headed to the Bahamas!",
+      "description": "The spirited women's softball team from the Virgin Islands is gearing up for an exciting journey across the Caribbean waters to the beautiful Bahamas. With unwavering dedication and a shared passion for the game, this remarkable group of athletes is set to represent their homeland on the international stage. Their journey isn't just about competition; it's a celebration of unity and sportsmanship, showcasing the vibrant culture of the Virgin Islands to the world. As they embark on this adventure, they carry the hopes and dreams of their community, ready to face tough opponents and create lasting memories in the Bahamas softball tournament. With their determination and team spirit, these women are not just playing for victory; they are playing for the pride and spirit of their islands.",
+      "mainImageUrl": "https://www.usvisoftballfederation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-05-at-8.25.43-PM-768x960.jpeg",
+      "date": "Sep 16, 2023",
+      "datetime": "2023-09-16",
+      "category": { "title": "Tournament", "href": "#" },
+      "author": {
+        "id": "author_id_1",
+        "firstName": "Patricia",
+        "lastName": "Phillips",
+        "roles": ["Treasurer"],
+        "href": "/m/patricia-phillips",
+        "avatar": "/pat.jpg",
+        "bio": "pretty cool and chill"
+      }
+    },
+    {
+      "id": "01HPHT61SAB5ZGWZF20K1B4D9G",
+      "isMain": false,
+      "title": "St. John Parks and Recreation Department starts 23U RBI Women’s Softball League",
+      "description": "Department of Sports, Park and Recreation Start 23U RBI Women’s Softball League",
+      "mainImageUrl": "https://stthomassource.com/wp-content/uploads/sites/2/2021/12/RBI-Softball-Amaya-Catching-scaled.jpg",
+      "date": "Sep 22, 2023",
+      "datetime": "2023-09-22",
+      "category": { "title": "Tournament", "href": "#" },
+      "author": {
+        "id": "author_id_2",
+        "firstName": "Sherry-Ann",
+        "lastName": "Francis",
+        "roles": ["Treasurer"],
+        "href": "/m/sherryann-francis",
+        "avatar": "/sherry.jpg",
+        "bio": "pretty cool and chill"
+      }
+    },
+    {
+      "id": "01HPHT61SAB5ZGWZF20K1B4D9H",
+      "isMain": false,
+      "title": "USVI Women Still in Contention for Caribbean Softball Title Despite Loss to Curacao on Friday",
+      "description": "Curacao softball team members at the 2023 English Caribbean Amateur Softball Confederation tournament on St. John. By V.I. CONSORTIUM ST. JOHN — Despite a loss to Curacao on Friday, the Virgin Islands National Women’s Softball Team is still in contention for a first-place finish at the 2023 English Caribbean Amateur Softball Confederation (ECASC) Women’s Fast-Pitch Tournament Qualifier. After having dispatched St. Maarten on Wednesday, Aruba on Thursday, and the British Virgin Islands during their first game of Friday’s double-header, the USVI women went down 9-0 to Curacao, leaving the visitors the only unbeaten team of the tournament. ",
+      "mainImageUrl": "https://viconsortium.com/editor_new/source/Curaca-Softball.jpg",
+      "date": "Sep 23, 2023",
+      "datetime": "2023-09-23",
+      "category": { "title": "Tournament", "href": "#" },
+      "author": {
+        "id": "author_id_2",
+        "firstName": "Sherry-Ann",
+        "lastName": "Francis",
+        "roles": ["Treasurer"],
+        "href": "/m/sherryann-francis",
+        "avatar": "/sherry.jpg",
+        "bio": "pretty cool and chill"
+      }
+    },
+    {
+      "id": "01HPHT61SAB5ZGWZF20K1B4D9H",
+      "isMain": false,
+      "title": "Celebrating #22 Ty'elle Jepesen",
+      "description": "With a killer game on Saturday, the USVI team is on their way to the Olympics! They are going to be the first team to represent the USVI in the Olympics. We are so proud of them!",
+      "mainImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKM9sUaS5AAZufhiAOlywa4H-S0co7KgufgsBQRJDecIK9iwD_AbY6_9PvqjcAkTgpah4&usqp=CAU",
+      "date": "Mar 16, 2023",
+      "datetime": "2023-03-16",
+      "category": { "title": "Tournament", "href": "#" },
+      "author": {
+        "id": "author_id_2",
+        "firstName": "Sherry-Ann",
+        "lastName": "Francis",
+        "roles": ["Treasurer"],
+        "href": "/m/sherryann-francis",
+        "avatar": "/sherry.jpg",
+        "bio": "pretty cool and chill"
+      }
+    },
+    {
+      "id": "01HPHT61SAB5ZGWZF20K1B4D9I",
+      "isMain": false,
+      "title": "LOCAL SPORTS ROUNDUP: St. Thomas teams win VISPRD girls softball tourney",
+      "description": "A pair of teams from St. Thomas beat their St. Croix counterparts to win division titles in the Virgin Islands Sports, Parks and Recreation Department’s 13-under and 18-under invitational girls softball tournament over the weekend on St. Croix.",
+      "mainImageUrl": "https://bloximages.newyork1.vip.townnews.com/virginislandsdailynews.com/content/tncms/assets/v3/editorial/3/82/382bdcb0-e5fd-5e97-9cb0-c9c0a870d189/5e7044b3782ba.image.jpg?resize=764%2C500",
+      "date": "Mar 16, 2023",
+      "datetime": "2023-03-16",
+      "category": { "title": "Tournament", "href": "#" },
+      "author": {
+        "id": "author_id_2",
+        "firstName": "Sherry-Ann",
+        "lastName": "Francis",
+        "roles": ["Treasurer"],
+        "href": "/m/sherryann-francis",
+        "avatar": "/sherry.jpg",
+        "bio": "pretty cool and chill"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "event_id_1",
+      "name": "USVI vs. Bahamas",
+      "date": 1715618051,
+      "location": "St. John, USVI",
+      "mainImageUrl": "/usvi-team1.jpeg"
+    },
+    {
+      "id": "event_id_2",
+      "name": "USVI vs. Curacao",
+      "date": 1715618051,
+      "location": "St. Thomas, USVI",
+      "mainImageUrl": "/usvi-team1.jpeg"
+    },
+    {
+      "id": "event_id_3",
+      "name": "USVI vs. Jamaica",
+      "date": 1715618051,
+      "location": "Nassau, Bahamas",
+      "mainImageUrl": "/usvi-team1.jpeg"
+    }
+  ]
+}
